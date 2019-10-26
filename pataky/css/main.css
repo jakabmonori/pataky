@@ -1,0 +1,40 @@
+#bevezeto {
+    width : 100%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.s-75 {
+    width: 75%;
+    height: auto;
+}
+
+.padding-5 {
+    padding: 5%;
+}
+
+.padding-3 {
+    padding: 3%;
+}
+
+.padding-1 {
+    padding: 1%;
+}
+
+.orange {
+    color: orange;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.page-footer {
+    background-color:orange; 
+    font-size: small;
+}
+
+.s-150 {
+    width: 150%;
+    height:auto;
+}
